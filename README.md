@@ -1,4 +1,4 @@
-# Node.js Template
+# Where Bike Theft
 #### Node.js, NPM (backend), Bower(frontend)
 #### DESCRIPTION
 
