@@ -2,8 +2,7 @@
 #### Node.js, NPM (backend), Bower(frontend)
 #### DESCRIPTION
 
-This repository contains basic template to setup Node.js based projects for Epicodus JavaScript course.
-
+This repo contains a node based application which connects to the bike index and google maps apis. It provides a heat map of the locations with the 100 most recent bike thefts reported for a chosen area
 #### Contents
 
 * package.json - NPM install file for backend packages
@@ -18,7 +17,8 @@ This repository contains basic template to setup Node.js based projects for Epic
 3. Update project name in package.json, bower.json, and title in index.html
 4. Run: npm install
 5. Run: bower install
-6. Start coding
+6. run gulp build
+7. run gulp serve
 
 ##### Packages
 
